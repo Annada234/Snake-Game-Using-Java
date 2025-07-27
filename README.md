@@ -1,1 +1,3 @@
 # Snake-Game-Using-Java
+
+Nothing just a simple Snake Game using java ....
